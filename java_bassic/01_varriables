@@ -3,7 +3,7 @@ let accountEmail = "bhaskarmodgil.com"
 var accountPassword = "12345"
 accountCity ="Bilaspur"
 let accountState;
-// accountId = 2// const change not
+// accountId = 2// const change not Allowed
 accountEmail="Modgil@gmail.com"
 accountPassword="1464654564654"
 accountCity="Shimla"

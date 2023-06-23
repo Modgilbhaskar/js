@@ -1,0 +1,23 @@
+"use strict";//Treat All Js Code As new verson
+//alert(3+3)//we are using nodejs,not browser
+console.log(3+
+    3)//code readanility Should be  heigh
+console.log("Bhaskar")
+let name="Bhaskar"
+let age=23
+let isloggedain = false
+let state = null
+//datatypes
+// number =>2 to power 53
+// bigint
+// string=>""
+// boolean => true/false
+// null=> standeredlone value
+// undifined=>
+// symbol=> unique
+
+
+// Object
+
+console.log(typeof null);// object
+console.log(typeof undefined); //null
